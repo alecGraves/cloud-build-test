@@ -1,3 +1,9 @@
+# editor stuff
+.idea/
+*~
+
+
+build/
 cmake-build*/
 
 # Prerequisites
